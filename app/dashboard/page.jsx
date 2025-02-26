@@ -6,7 +6,6 @@ function Dashboard() {
     <>
         <div>
             <h1>Dashboard Page</h1>
-            <UserButton />
         </div>
     </>
   )
