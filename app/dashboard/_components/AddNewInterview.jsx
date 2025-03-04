@@ -20,6 +20,7 @@ function AddNewInterview() {
     e.preventDefault();
     console.log({ jobPosition, jobDescription, yearsOfExperience });
     setOpenDialog(false);
+    console.log("Interview Started Successfully!");
   }
 
   return (
